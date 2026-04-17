@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
 
+# Southern New Hampshire University B.S. in Computer Science With Concentration in Software Engineering
 <!--
 **JeromeReposit/JeromeReposit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
