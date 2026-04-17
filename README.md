@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-# Southern New Hampshire University B.S. in Computer Science With Concentration in Software Engineering
+Hi, I’m Jerome, and I hold a B.S. in Computer Science with a concentration in Software Engineering from Southern New Hampshire University.
 <!--
 **JeromeReposit/JeromeReposit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
